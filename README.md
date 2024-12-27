@@ -16,4 +16,13 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript. This 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Aman8759/my-projects]
+   git clone https://github.com/Aman8759/my-projects
+
+## Usage
+- Enter numbers using the on-screen buttons.
+- Select an operation by clicking the corresponding button.
+- Click the equals button to see the result.
+- Use the clear button to reset the calculator.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
